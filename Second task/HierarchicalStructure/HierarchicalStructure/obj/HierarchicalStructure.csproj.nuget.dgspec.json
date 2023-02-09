@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aivar\\Desktop\\REIZ TECH HOMEWORK ASSIGNMENT\\Second task\\HierarchicalStructure\\HierarchicalStructure\\HierarchicalStructure.csproj": {}
+    "C:\\Users\\aivar\\Desktop\\Second task\\HierarchicalStructure\\HierarchicalStructure\\HierarchicalStructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aivar\\Desktop\\REIZ TECH HOMEWORK ASSIGNMENT\\Second task\\HierarchicalStructure\\HierarchicalStructure\\HierarchicalStructure.csproj": {
+    "C:\\Users\\aivar\\Desktop\\Second task\\HierarchicalStructure\\HierarchicalStructure\\HierarchicalStructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aivar\\Desktop\\REIZ TECH HOMEWORK ASSIGNMENT\\Second task\\HierarchicalStructure\\HierarchicalStructure\\HierarchicalStructure.csproj",
+        "projectUniqueName": "C:\\Users\\aivar\\Desktop\\Second task\\HierarchicalStructure\\HierarchicalStructure\\HierarchicalStructure.csproj",
         "projectName": "HierarchicalStructure",
-        "projectPath": "C:\\Users\\aivar\\Desktop\\REIZ TECH HOMEWORK ASSIGNMENT\\Second task\\HierarchicalStructure\\HierarchicalStructure\\HierarchicalStructure.csproj",
+        "projectPath": "C:\\Users\\aivar\\Desktop\\Second task\\HierarchicalStructure\\HierarchicalStructure\\HierarchicalStructure.csproj",
         "packagesPath": "C:\\Users\\aivar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aivar\\Desktop\\REIZ TECH HOMEWORK ASSIGNMENT\\Second task\\HierarchicalStructure\\HierarchicalStructure\\obj\\",
+        "outputPath": "C:\\Users\\aivar\\Desktop\\Second task\\HierarchicalStructure\\HierarchicalStructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

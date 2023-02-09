@@ -13,3 +13,18 @@ C:\Users\aivar\Desktop\REIZ TECH HOMEWORK ASSIGNMENT\Second task\HierarchicalStr
 C:\Users\aivar\Desktop\REIZ TECH HOMEWORK ASSIGNMENT\Second task\HierarchicalStructure\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.pdb
 C:\Users\aivar\Desktop\REIZ TECH HOMEWORK ASSIGNMENT\Second task\HierarchicalStructure\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.genruntimeconfig.cache
 C:\Users\aivar\Desktop\REIZ TECH HOMEWORK ASSIGNMENT\Second task\HierarchicalStructure\HierarchicalStructure\obj\Debug\net6.0\ref\HierarchicalStructure.dll
+C:\Users\aivar\Desktop\Second task\HierarchicalStructure\HierarchicalStructure\bin\Debug\net6.0\HierarchicalStructure.exe
+C:\Users\aivar\Desktop\Second task\HierarchicalStructure\HierarchicalStructure\bin\Debug\net6.0\HierarchicalStructure.deps.json
+C:\Users\aivar\Desktop\Second task\HierarchicalStructure\HierarchicalStructure\bin\Debug\net6.0\HierarchicalStructure.runtimeconfig.json
+C:\Users\aivar\Desktop\Second task\HierarchicalStructure\HierarchicalStructure\bin\Debug\net6.0\HierarchicalStructure.dll
+C:\Users\aivar\Desktop\Second task\HierarchicalStructure\HierarchicalStructure\bin\Debug\net6.0\HierarchicalStructure.pdb
+C:\Users\aivar\Desktop\Second task\HierarchicalStructure\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.csproj.AssemblyReference.cache
+C:\Users\aivar\Desktop\Second task\HierarchicalStructure\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aivar\Desktop\Second task\HierarchicalStructure\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.AssemblyInfoInputs.cache
+C:\Users\aivar\Desktop\Second task\HierarchicalStructure\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.AssemblyInfo.cs
+C:\Users\aivar\Desktop\Second task\HierarchicalStructure\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.csproj.CoreCompileInputs.cache
+C:\Users\aivar\Desktop\Second task\HierarchicalStructure\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.dll
+C:\Users\aivar\Desktop\Second task\HierarchicalStructure\HierarchicalStructure\obj\Debug\net6.0\refint\HierarchicalStructure.dll
+C:\Users\aivar\Desktop\Second task\HierarchicalStructure\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.pdb
+C:\Users\aivar\Desktop\Second task\HierarchicalStructure\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.genruntimeconfig.cache
+C:\Users\aivar\Desktop\Second task\HierarchicalStructure\HierarchicalStructure\obj\Debug\net6.0\ref\HierarchicalStructure.dll

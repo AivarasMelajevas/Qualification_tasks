@@ -10,33 +10,64 @@
         }
         static Branch CreateStructure()
         {
-            Branch root = new Branch();
+            Branch structure = new Branch
+            {
+                branches = new List<Branch>()
+            {
+                new Branch
+                {
+                    branches = new List<Branch>
+                    {
+                        new Branch
+                        {
+                            branches = new List<Branch>()
+                        }
+                    }
+                },
+                new Branch
+                {
+                    branches = new List<Branch>
+                    {
+                        new Branch
+                        {
+                            branches = new List<Branch>
+                            {
+                                new Branch
+                                {
+                                    branches = new List<Branch>()
+                                }
+                            }
+                        },
+                        new Branch
+                        {
+                            branches = new List<Branch>
+                            {
+                                new Branch
+                                {
+                                    branches = new List<Branch>
+                                    {
+                                        new Branch
+                                        {
+                                            branches = new List<Branch>()
+                                        }
+                                    }
+                                },
+                                new Branch
+                                {
+                                    branches = new List<Branch>()
+                                }
+                            }
+                        },
+                        new Branch
+                        {
+                            branches = new List<Branch>()
+                        }
+                    }
+                },
+            }
+            };
 
-            Branch firstGenChild1 = new Branch();
-            Branch firstGenChild2 = new Branch();
-            root.branches.Add(firstGenChild1);
-            root.branches.Add(firstGenChild2);
-
-            Branch secondGenChild1 = new Branch();
-            Branch secondGenChild2 = new Branch();
-            Branch secondGenChild3 = new Branch();
-            Branch secondGenChild4 = new Branch();
-            firstGenChild1.branches.Add(secondGenChild1);
-            firstGenChild2.branches.Add(secondGenChild2);
-            firstGenChild2.branches.Add(secondGenChild3);
-            firstGenChild2.branches.Add(secondGenChild4);
-
-            Branch thirdGenChild1 = new Branch();
-            Branch thirdGenChild2 = new Branch();
-            Branch thirdGenChild3 = new Branch();
-            secondGenChild2.branches.Add(thirdGenChild1);
-            secondGenChild3.branches.Add(thirdGenChild2);
-            secondGenChild3.branches.Add(thirdGenChild3);
-
-            Branch fourthGenChild1 = new Branch();
-            thirdGenChild2.branches.Add(fourthGenChild1);
-
-            return root;
+            return structure;
         }
 
         static int CalculateDepth(Branch branch)

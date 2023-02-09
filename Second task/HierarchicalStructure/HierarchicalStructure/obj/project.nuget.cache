@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PXD+KLcTpRGsa190766AVuPdTSV05cZempMYPoVjL20t4reXEKNCdLM836xjpO/NllBsTlXkfYQI3konPZSj3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aivar\\Desktop\\REIZ TECH HOMEWORK ASSIGNMENT\\Second task\\HierarchicalStructure\\HierarchicalStructure\\HierarchicalStructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aivar\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.13\\microsoft.netcore.app.host.win-x86.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
